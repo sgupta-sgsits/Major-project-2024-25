@@ -10,7 +10,7 @@ Central Repository for all the work of Major project phase-1 and phase-2 for B.T
 
 Please refer to the Project-List.pdf to find your group ID.
 
-Upon entering the folder named after your group id, you will find a file Group_Members.txt, add the names and enrollment numbers of each member of your group to that file. Also upload the yours posport size photo(File name is yours EnrollmentNumber_FullName) 
+Upon entering the folder named after your group id, you will find a file Group_Members.txt, add the names and enrollment numbers of each member of your group to that file. Also upload the yours possport size photo(File name is yours EnrollmentNumber_FullName) 
 You are required to create the four folders in the yours group.
 1. Src : Contains the source code of the project.
 2. Doc : All reports/presentations/..
